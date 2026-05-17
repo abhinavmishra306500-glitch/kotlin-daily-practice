@@ -1,0 +1,11 @@
+fun main() {
+
+    var stack = mutableListOf<Int>()
+
+    stack.add(1)
+    stack.add(2)
+    stack.add(3)
+
+    println(stack)
+
+}
